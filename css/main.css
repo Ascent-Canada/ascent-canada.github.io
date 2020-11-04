@@ -584,6 +584,7 @@ button:focus {
       margin-bottom: 25px; }
     #business-plan .business-item-info p {
       font-size: 16px;
+      text-align: justify;
       margin-bottom: 20px; }
 
 /* ==========================================================================
